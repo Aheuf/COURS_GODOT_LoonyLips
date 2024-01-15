@@ -1,0 +1,14 @@
+[
+{
+"prompts": ["a name", "a noun", "adjective", "number"],
+"story": "Once Upon a time someone called %s watched %s and thought it was the %s movie of the past two decades, he watched it %s times !"
+},
+{
+"prompts": ["a noun", "a place", "a verb", "an other verb"],
+"story": "Beware of the %s in the %s it will %s before you %s."
+},
+{
+  "prompts": ["a place", "a object", "an insult"],
+  "story": "Go to %s with %s in the rectum you %s !"
+  }
+]
